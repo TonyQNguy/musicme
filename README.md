@@ -15,8 +15,4 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
-![Screenshot](Simulator Screenshot - iPhone 15 Pro Max - 2024-02-04 at 12.52.13.png)
-
-![Screenshot](Simulator Screenshot - iPhone 15 Pro Max - 2024-02-04 at 12.52.13.png)
-
-![alt text](https://github.com/[tonyqnguy]/[musicme]/blob/[main]/MusicMeHome.ong?raw=true)
+![alt text](https://github.com/[tonyqnguy]/[musicme]/blob/[main]/MusicMeHome.png?raw=true)
