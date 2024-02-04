@@ -1,6 +1,6 @@
 # musicme
 
-A new Flutter project.
+MusicMe is a local audio playing interface I created with Dart and Flutter.
 
 ## Getting Started
 
